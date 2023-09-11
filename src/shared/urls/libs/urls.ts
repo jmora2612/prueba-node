@@ -1,0 +1,20 @@
+/* eslint-disable prettier/prettier */
+export const URLS = { 
+
+    ///////author////////////////////////////
+  
+    createAuthor: 'autor',
+    listAuthor: 'autores',
+  
+    ////////////////////////////////////////
+
+
+    ///////book/////////////////////////////
+  
+    createBook: 'libro',
+    listBook: 'libros',
+
+    ////////////////////////////////////////
+
+  };
+  
